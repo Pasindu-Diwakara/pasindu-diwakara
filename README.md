@@ -1,87 +1,102 @@
 <div align="center">
 
-# Pasindu Diwakara
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Diwakara&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=UX%20Designer%20%7C%20HCI%20Specialist%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&animation=fadeIn" />
 
-### UX Designer · HCI Specialist · AI Explorer
+<a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-BICT (Hons) — Rajarata University of Sri Lanka
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindudiwakara)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pasindudiwakara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PasinduDiwakara)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Designing+at+the+intersection+of+humans+%26+machines;BICT+(Hons)+%E2%80%94+Rajarata+University+of+Sri+Lanka;Exploring+AI-driven+design+systems;Kuliyapitiya%2C+Sri+Lanka" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=PasinduDiwakara&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/PasinduDiwakara?style=for-the-badge&color=38bdf8&labelColor=1E1E2E" />
 
 </div>
 
 <br/>
 
-## About
+## 👋 About Me
 
-I'm an undergraduate at Rajarata University of Sri Lanka, pursuing a BICT (Hons) degree with a focus on UX design and human-computer interaction. I'm currently expanding into prompt engineering and AI-driven design — exploring where careful design thinking meets emerging technology.
-
-**Interests:** Human-Computer Interaction · Interaction Design · Prompt Engineering · AI Systems · Design Research
+- 🎓 Undergraduate at **Rajarata University of Sri Lanka**, pursuing a **BICT (Hons)** degree focused on UX design and human-computer interaction
+- 🤖 Currently expanding into **prompt engineering** and **AI-driven design systems**
+- 🎯 Finding the overlap between careful design thinking and emerging technology
+- 💬 Ask me about: Human-Computer Interaction, Interaction Design, Design Research, AI Systems
 
 <br/>
 
-## Skills
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ai" />
 
-![Figma](https://img.shields.io/badge/Figma-1E1E2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-1E1E2E?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-![Illustrator](https://img.shields.io/badge/Illustrator-1E1E2E?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+<br/><br/>
 
 **Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
 
-![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-1E1E2E?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/><br/>
 
 **Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,notion,openai" />
 
-![VS Code](https://img.shields.io/badge/VS_Code-1E1E2E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1E1E2E?style=for-the-badge&logo=notion&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-1E1E2E?style=for-the-badge&logo=openai&logoColor=white)
+</div>
 
 <br/>
 
-## Featured Projects
+## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**Project Name**
-Short one- to two-line description of what the project does and the problem it solves.
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-one&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-two&theme=tokyonight&hide_border=true" />
+</a>
 
-`Figma` `React` `Tailwind`
-[Live Demo](#) · [Repo](#)
+</div>
 
-</td>
-<td width="50%">
+<sub align="center">Swap `your-repo-one` / `your-repo-two` for your actual repo names and these will auto-populate with stars, forks, and language.</sub>
 
-**Project Name**
-Short one- to two-line description of what the project does and the problem it solves.
+<br/><br/>
 
-`Python` `Prompt Engineering`
-[Live Demo](#) · [Repo](#)
-
-</td>
-</tr>
-</table>
-
-<sub>Replace the placeholders above with your real projects, screenshots, and links.</sub>
-
-<br/>
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=PasinduDiwakara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDiwakara&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduDiwakara&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDiwakara&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -90,6 +105,11 @@ Short one- to two-line description of what the project does and the problem it s
 <div align="center">
 
 *"Design is not just what it looks like and feels like. Design is how it works."*
-— Steve Jobs
+<br/>
+<sub>— Steve Jobs</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
