@@ -59,14 +59,14 @@ philosophy: "Design is how it works, not just how it looks."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PasinduDiwakara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduDiwakara&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Diwakara&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDiwakara&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Diwakara&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
 </div>
 
@@ -76,7 +76,7 @@ philosophy: "Design is how it works, not just how it looks."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PasinduDiwakara/PasinduDiwakara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Pasindu-Diwakara/Pasindu-Diwakara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>Set this up via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on your profile repo — it auto-generates on push.</sub>
 
@@ -88,8 +88,8 @@ philosophy: "Design is how it works, not just how it looks."
 
 <div align="center">
 
-<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-one&theme=radical&hide_border=true&bg_color=0d1117" /></a>
-<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-two&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Diwakara&repo=your-repo-one&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Diwakara&repo=your-repo-two&theme=radical&hide_border=true&bg_color=0d1117" /></a>
 
 </div>
 
@@ -101,7 +101,7 @@ philosophy: "Design is how it works, not just how it looks."
 
 <a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Pasindu-Diwakara"><img src="https://img.shields.io/badge/-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
