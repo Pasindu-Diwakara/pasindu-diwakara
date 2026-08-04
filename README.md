@@ -1,115 +1,112 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Diwakara&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=UX%20Designer%20%7C%20HCI%20Specialist%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Pasindu%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-<a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Designing+at+the+intersection+of+humans+%26+machines;BICT+(Hons)+%E2%80%94+Rajarata+University+of+Sri+Lanka;Exploring+AI-driven+design+systems;Kuliyapitiya%2C+Sri+Lanka" />
-</a>
+### `whoami`
+
+```yaml
+name: Pasindu Diwakara
+role: UX Designer / HCI Specialist / AI Explorer
+degree: BICT (Hons)
+university: Rajarata University of Sri Lanka
+based_in: Kuliyapitiya, Sri Lanka
+focus: prompt engineering, AI-driven design systems
+philosophy: "Design is how it works, not just how it looks."
+```
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=280&height=100&lines=UX+Designer;HCI+Specialist;AI+Explorer;Prompt+Engineer" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PasinduDiwakara&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/PasinduDiwakara?style=for-the-badge&color=38bdf8&labelColor=1E1E2E" />
+## ⚡ What I'm Into
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">🎨<br/><b>UX Design</b></td>
+<td align="center" width="20%">🧠<br/><b>HCI</b></td>
+<td align="center" width="20%">🤖<br/><b>AI Systems</b></td>
+<td align="center" width="20%">✍️<br/><b>Prompt Eng.</b></td>
+<td align="center" width="20%">🔍<br/><b>Design Research</b></td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,html,css,js,py,java,vscode,github,notion,openai&theme=dark" />
 
 </div>
 
 <br/>
 
-## 👋 About Me
-
-- 🎓 Undergraduate at **Rajarata University of Sri Lanka**, pursuing a **BICT (Hons)** degree focused on UX design and human-computer interaction
-- 🤖 Currently expanding into **prompt engineering** and **AI-driven design systems**
-- 🎯 Finding the overlap between careful design thinking and emerging technology
-- 💬 Ask me about: Human-Computer Interaction, Interaction Design, Design Research, AI Systems
-
-<br/>
-
-## 🛠️ Tech Stack
+## 📈 The Numbers
 
 <div align="center">
 
-**Design**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,xd,ai" />
+<img src="https://github-readme-stats.vercel.app/api?username=PasinduDiwakara&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduDiwakara&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA" height="165"/>
 
-<br/><br/>
+</div>
 
-**Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
+<div align="center">
 
-<br/><br/>
-
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,notion,openai" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDiwakara&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" width="100%"/>
 
 </div>
 
 <br/>
 
-## 📌 Featured Projects
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-one&theme=tokyonight&hide_border=true" />
-</a>
-<a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-two&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://raw.githubusercontent.com/PasinduDiwakara/PasinduDiwakara/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-</div>
-
-<sub align="center">Swap `your-repo-one` / `your-repo-two` for your actual repo names and these will auto-populate with stars, forks, and language.</sub>
-
-<br/><br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PasinduDiwakara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduDiwakara&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduDiwakara&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDiwakara&theme=tokyo-night&hide_border=true" />
+<sub>Set this up via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on your profile repo — it auto-generates on push.</sub>
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 📌 Pinned Work
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-one&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+<a href="#"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PasinduDiwakara&repo=your-repo-two&theme=radical&hide_border=true&bg_color=0d1117" /></a>
+
+</div>
+
+<br/>
+
+## 📬 Reach Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pasindudiwakara"><img src="https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pasindudiwakara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/PasinduDiwakara"><img src="https://img.shields.io/badge/-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-*"Design is not just what it looks like and feels like. Design is how it works."*
-<br/>
-<sub>— Steve Jobs</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
