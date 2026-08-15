@@ -1,66 +1,58 @@
-```
-+----------------------------------------+
-|                                          |
-|               D I W A K A R A           |
-|                                          |
-+----------------------------------------+
-```
+<div align="center">
 
-```bash
-guest@github:~$ whoami
-```
-```
-Pasindu Diwakara
-UX Designer / HCI Specialist / AI Explorer
-```
+# Pasindu Diwakara
 
-```bash
-guest@github:~$ cat about.txt
-```
-```
-BICT (Hons) undergraduate at Rajarata University of Sri Lanka.
-Focused on UX design and human-computer interaction.
-Expanding into prompt engineering and AI-driven design systems.
-Based in Kuliyapitiya, Sri Lanka.
-```
+**UX Designer · HCI Specialist · AI Explorer**
 
-```bash
-guest@github:~$ ls stack/
-```
-```
-design/        figma  adobe-xd  illustrator
-development/   html  css  javascript  python  java
-tooling/       vscode  github  notion  openai
-```
+BICT (Hons) — Rajarata University of Sri Lanka · Kuliyapitiya, Sri Lanka
 
-```bash
-guest@github:~$ cat interests.txt
-```
-```
-- Human-Computer Interaction
-- Interaction Design
-- Prompt Engineering
-- AI Systems
-- Design Research
-```
+[LinkedIn](https://linkedin.com/in/pasindudiwakara) &nbsp;·&nbsp; [Email](mailto:pasindudiwakara@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/Pasindu-Diwakara)
 
-```bash
-guest@github:~$ ls projects/
-```
-```
-your-repo-one/    -> replace with a real repo name
-your-repo-two/    -> replace with a real repo name
-```
+</div>
 
-```bash
-guest@github:~$ cat contact.txt
-```
-```
-linkedin  : linkedin.com/in/pasindudiwakara
-email     : pasindudiwakara@gmail.com
-github    : github.com/Pasindu-Diwakara
-```
+<br/>
 
-```bash
-guest@github:~$ _
-```
+## About
+
+I'm an undergraduate at Rajarata University of Sri Lanka, working toward a BICT (Hons) degree with a focus on UX design and human-computer interaction. I'm currently expanding into prompt engineering and AI-driven design — exploring where thoughtful design thinking meets emerging technology.
+
+**Interests:** Human-Computer Interaction · Interaction Design · Prompt Engineering · AI Systems · Design Research
+
+<br/>
+
+## Skills
+
+| Category | Tools |
+|---|---|
+| **Design** | Figma, Adobe XD, Illustrator |
+| **Development** | HTML, CSS, JavaScript, Python, Java |
+| **Tooling** | VS Code, GitHub, Notion, OpenAI |
+
+<br/>
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Project Name](#)** | One-line description of what it does and the problem it solves. | Figma, React |
+| **[Project Name](#)** | One-line description of what it does and the problem it solves. | Python, Prompt Engineering |
+
+<sub>Replace with your real repositories and links.</sub>
+
+<br/>
+
+## Contact
+
+| | |
+|---|---|
+| LinkedIn | [linkedin.com/in/pasindudiwakara](https://linkedin.com/in/pasindudiwakara) |
+| Email | [pasindudiwakara@gmail.com](mailto:pasindudiwakara@gmail.com) |
+| GitHub | [github.com/Pasindu-Diwakara](https://github.com/Pasindu-Diwakara) |
+
+<br/>
+
+<div align="center">
+
+<sub>"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs</sub>
+
+</div>
