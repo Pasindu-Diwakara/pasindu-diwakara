@@ -1,6 +1,6 @@
 # Pasindu Diwakara
 
-UX Designer · HCI Specialist · AI Explorer
+Creative Technologist · AI Prompt Architect · Rapid Prototyper
 
 BICT (Hons), Rajarata University of Sri Lanka
 Kuliyapitiya, Sri Lanka
