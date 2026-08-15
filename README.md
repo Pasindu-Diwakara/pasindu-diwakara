@@ -28,4 +28,4 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-*"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs*
+*"A user interface is like a joke. If you have to explain it, it's not that good." — Martin LeBlanc*
