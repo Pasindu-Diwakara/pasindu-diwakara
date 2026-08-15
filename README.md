@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header" />
+</div>
+
 # Pasindu Diwakara
 
 UX Designer · HCI Specialist · AI Explorer
@@ -21,17 +25,16 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 **Development:** HTML, CSS, JavaScript, Python, Java
 **Tooling:** VS Code, GitHub, Notion, OpenAI
 
-## Projects
-
-**Project Name** — one-line description of what it does and the problem it solves.
-**Project Name** — one-line description of what it does and the problem it solves.
-
 ## Contact
 
-LinkedIn: [linkedin.com/in/pasindudiwakara](https://linkedin.com/in/pasindudiwakara)
+LinkedIn: [linkedin.com/in/pasindu-diwakara-008260290](https://www.linkedin.com/in/pasindu-diwakara-008260290/)
 Email: [pasindudiwakara635@gmail.com](mailto:pasindudiwakara635@gmail.com)
 GitHub: [github.com/Pasindu-Diwakara](https://github.com/Pasindu-Diwakara)
 
 ---
 
 *"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs*
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" />
+</div>
