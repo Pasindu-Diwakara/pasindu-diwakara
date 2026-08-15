@@ -1,15 +1,15 @@
-<div align="center">
-<img width="100%" src="./assets/hero-banner.svg" alt="Pasindu Diwakara" />
-</div>
+# Pasindu Diwakara
 
-<br/>
+UX Designer · HCI Specialist · AI Explorer
+
+BICT (Hons), Rajarata University of Sri Lanka
+Kuliyapitiya, Sri Lanka
+
+---
 
 ## About
 
 I'm an undergraduate at Rajarata University of Sri Lanka, working toward a BICT (Hons) degree with a focus on UX design and human-computer interaction. I'm currently expanding into prompt engineering and AI-driven design, exploring where design thinking meets emerging technology.
-
-**Education:** BICT (Hons), Rajarata University of Sri Lanka
-**Location:** Kuliyapitiya, Sri Lanka
 
 ## Interests
 
