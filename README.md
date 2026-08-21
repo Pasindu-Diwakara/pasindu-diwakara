@@ -1,7 +1,16 @@
+<div align="center">
+
 # Pasindu Diwakara
 
 **Creative Technologist** · **AI Prompt Architect** · **Rapid Prototyper**  
 BICT (Hons), Rajarata University of Sri Lanka Kuliyapitiya, Sri Lanka
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pasindu-Diwakara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Pasindu-Diwakara?label=Followers&style=flat" alt="Followers" />
+</p>
+
+</div>
 
 ---
 
@@ -17,12 +26,43 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Tech Stack
 
 * 🎨 **Design & Prototyping:** `Figma` `Adobe XD` `Illustrator` `UI/UX Wireframing` `Glassmorphism / Dark Mode`
 * ⚡ **Frontend & Full-Stack Development:** `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `HTML5` `CSS3`
 * 🤖 **AI & Prompt Engineering:** `Advanced Master Prompts` `Macro Physics Simulation Prompts` `Generative AI Tools`
 * ⚙️ **Tooling & Version Control:** `VS Code` `Git` `GitHub` `Vercel` `Notion` `OpenAI`
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,figma,vercel,vscode,notion&perline=14&size=40" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streak
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Contribution Activity
+
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Diwakara&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution Activity" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
