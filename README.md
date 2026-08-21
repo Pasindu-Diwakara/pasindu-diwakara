@@ -39,7 +39,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-### 📊 GitHub Stats, Streak & Languages
+### 📊 GitHub Stats & Streak
 
 <table align="center" width="100%">
   <tr>
@@ -50,8 +50,15 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=react&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
+</table>
+
+---
+
+### 💻 Top Languages
+
+<table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center">
+    <td width="100%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
