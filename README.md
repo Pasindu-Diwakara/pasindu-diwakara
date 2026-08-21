@@ -44,10 +44,10 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&include_all_commits=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=react&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Diwakara&theme=react&hide_border=true&area=true&height=180" alt="Contribution Activity" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pasindu-Diwakara&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution Activity" width="100%" />
     </td>
   </tr>
 </table>
