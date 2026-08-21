@@ -34,7 +34,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 * ⚙️ **Tooling & Version Control:** `VS Code` `Git` `GitHub` `Vercel` `Notion` `OpenAI`
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,figma,vercel,vscode,notion&perline=14&size=40" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,git,github,figma,vercel,vscode,notion,xd,npm&perline=16&size=40" alt="Tech Stack Icons" />
 </p>
 
 ---
