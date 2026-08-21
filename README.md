@@ -39,30 +39,23 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 📊 GitHub Stats, Top Languages & Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="195" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
     </td>
   </tr>
-</table>
-
----
-
-### 💻 Top Languages & WakaTime
-
-<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Pasindu-Diwakara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Pasindu-Diwakara&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" height="195" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="WakaTime Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Diwakara&repo=TechnikBox&theme=tokyonight&hide_border=true" alt="Pinned Repo" height="195" />
     </td>
   </tr>
 </table>
