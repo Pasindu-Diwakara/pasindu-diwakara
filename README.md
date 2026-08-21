@@ -19,9 +19,17 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ### 🛠️ Skills
 
-* **🎨 Design:** `Figma`, `Adobe XD`, `Illustrator`
-* **⚡ Development:** `HTML`, `CSS`, `JavaScript`, `TypeScript`, `React`, `Next.js`, `Python`, `Java`
-* **⚙️ Tooling:** `VS Code`, `Git`, `GitHub`, `Notion`, `OpenAI`, `Vercel`
+* **🎨 Design & Prototyping:** 
+  `Figma` `Adobe XD` `Illustrator` `UI/UX Wireframing` `Glassmorphism / Dark Mode`
+
+* **⚡ Frontend & Full-Stack Development:** 
+  `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Node.js` `HTML5` `CSS3`
+
+* **🤖 AI & Prompt Engineering:** 
+  `Advanced Master Prompts` `Macro Physics Simulation Prompts` `Generative AI Tools`
+
+* **⚙️ Tooling & Version Control:** 
+  `VS Code` `Git` `GitHub` `Vercel` `Notion` `OpenAI`
 
 ---
 
@@ -35,6 +43,6 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pasindudiwakara635@gmail.com">
-    <img src="https://img.shields.io/badge/pasindudiwakara635@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
