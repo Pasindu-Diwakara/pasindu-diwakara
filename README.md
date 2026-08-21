@@ -39,7 +39,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-### 📊 GitHub Stats, Top Languages & Projects
+### 📊 GitHub Stats & Streak Combo
 
 <table align="center" width="100%">
   <tr>
@@ -50,12 +50,19 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
     </td>
   </tr>
+</table>
+
+---
+
+### 💻 Top Languages & WakaTime Combo
+
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Pasindu-Diwakara&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" height="195" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Diwakara&repo=TechnikBox&theme=tokyonight&hide_border=true" alt="Pinned Repo" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pasindu-Diwakara&theme=tokyonight&hide_border=true" alt="WakaTime Stats" height="195" />
     </td>
   </tr>
 </table>
