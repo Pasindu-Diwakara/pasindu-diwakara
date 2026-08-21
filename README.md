@@ -59,7 +59,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
