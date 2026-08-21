@@ -54,7 +54,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
 
 ---
 
-### 💻 Top Languages & WakaTime
+### 💻 Top Languages & Featured Project
 
 <table align="center" width="100%">
   <tr>
@@ -62,7 +62,7 @@ Human-Computer Interaction, Interaction Design, Prompt Engineering, AI Systems, 
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Pasindu-Diwakara&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Pasindu-Diwakara&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="WakaTime Activity" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pasindu-Diwakara&amp;repo=TechnikBox&amp;theme=tokyonight&amp;hide_border=true" alt="Pinned Repo" width="100%" />
     </td>
   </tr>
 </table>
